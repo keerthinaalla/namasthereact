@@ -1,0 +1,39 @@
+1.What is Emmet?
+Ans:Emmet is a free add-on for your text editor that allows you to type shortcuts that are then expanded into full pieces of code.
+
+2.Difference between Library and Framework?
+Framework:
+A framework is used for building and deploying an application quickly. 
+When we use a framework, we can use resources to facilitate faster development and a greater user experience.
+
+Librabry:
+A library is used to enhance the functionality of an application. 
+If we develop our own library, we can use the functions in many applications.
+
+3.What is CDN? Why we use it?
+
+CDN:
+A CDN improves efficiency by introducing intermediary servers between the client and the website server. 
+These CDN servers manage some of the client-server communications. 
+They decrease web traffic to the web server, reduce bandwidth consumption,
+and improve the user experience of your applications.
+
+Without a CDN, all web requests will have to be accommodated by the host origin server itself. 
+If the website becomes too popular, it will attract a lot of traffic at the same time. 
+It could be too much for the host server and it could lead to slow delivery of content, or worse, website failure.
+
+4.Why is React know as React?
+React is called React because it is a library that reacts to changes in data and updates the user interface accordingly. 
+It was originally developed by Facebook and was released as an open-source project in 2013.
+The name "React" reflects its purpose of reacting to changes in data and rendering the appropriate changes in the user interface.
+
+5.What is cross-origin in the script tag?
+The crossorigin attribute specifies that the link element supports CORS. 
+CORS stands for Cross Origin Resource Sharing. CORS is a standard mechanism to 
+retrieve files from a third party domain or server.
+If specified, the stylesheet or icon file request will be sent with or without credentials.
+
+6.What is the diffence between React and ReactDOM
+React is a JavaScript library for building User Interfaces 
+ReactDOM is the JavaScript library that allows React to interact with the DOM.
+ As the name implies, ReactDOM is the glue between React and the DOM
